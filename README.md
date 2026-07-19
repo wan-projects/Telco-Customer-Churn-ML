@@ -1,4 +1,3 @@
-
 # Telco Customer Churn - MLE Project
 
 Binary classification with full lifecycle:
