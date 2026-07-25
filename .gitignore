@@ -4,7 +4,7 @@
 
 data/external/
 data/processed/
-data/raw/
+data/raw/Telco-Customer-Churn(ipynb).csv
 
 scripts/explore_data.py
 scripts/test_stage1.py
