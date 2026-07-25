@@ -1,16 +1,24 @@
-/.venv
-/.env
-*.pyc
+# venvs
+.venv/
+venv/
+env/
 
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Big artifacts we don't want in git
 data/external/
 data/processed/
 data/raw/Telco-Customer-Churn(ipynb).csv
 
+# Test files
 scripts/explore_data.py
 scripts/test_stage1.py
 scripts/test_stage2.py
 scripts/test_stage3.py
 
+# Other files
 src/utils/validate_data_versi_old.py
-
 test.md
