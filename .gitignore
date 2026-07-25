@@ -9,6 +9,7 @@ data/raw/
 scripts/explore_data.py
 scripts/test_stage1.py
 scripts/test_stage2.py
+scripts/test_stage3.py
 
 src/utils/validate_data_versi_old.py
 
