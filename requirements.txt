@@ -60,6 +60,7 @@ opentelemetry-api==1.44.0
 opentelemetry-proto==1.44.0
 opentelemetry-sdk==1.44.0
 opentelemetry-semantic-conventions==0.65b0
+optuna==4.9.0
 packaging==26.2
 pandas==2.3.3
 pillow==12.3.0
@@ -104,5 +105,6 @@ uvicorn==0.51.0
 waitress==3.0.2
 wcwidth==0.8.2
 werkzeug==3.1.8
+xgboost==3.3.0
 yarl==1.24.2
 zipp==4.1.0
