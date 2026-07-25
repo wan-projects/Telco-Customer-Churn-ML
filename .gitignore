@@ -11,7 +11,7 @@ __pycache__/
 # Big artifacts we don't want in git
 data/external/
 data/processed/
-data/raw/Telco-Customer-Churn(ipynb).csv
+data/raw/
 
 # Test files
 scripts/explore_data.py
